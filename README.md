@@ -1,8 +1,6 @@
 ## OpenAI + Raspberry Pi Setup Instructions 
 
-### What would you need to assemble your bot 
-
-Supplies 
+### Supplies 
 
 * Raspberry Pi Starter Kit (with micro CD card)
 * Speaker set  & Speaker bonnet
@@ -12,7 +10,7 @@ Supplies
 * USB microphone 
 * Breadboard
 
-Setting up Raspberry Pi 
+### Setting up Raspberry Pi 
 
 1) Set up your PI using instructions from the Raspberry PI Foundation website 
 2) Connect the USB microphone to the raspberry PI via the USB port 
@@ -23,7 +21,7 @@ Setting up Raspberry Pi
 7) Connect a wire to the button of the button and to the 23 pin in the raspberry pi 
 Note: You can use another pin but you’ll need to change it in the code. Certain pins may interfere with the audio. 
 
-Running the code 
+### Running the code 
 
 1) Make sure you add an enivronmental variable. Follow instructions from OpenAI website 
 2) Run to install `sh setup.sh` requirements to run the file 

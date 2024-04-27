@@ -1,5 +1,3 @@
-# openai-raspberrypi
-
 ## OpenAI + Raspberry Pi Setup Instructions 
 
 ### What would you need to assemble your bot 

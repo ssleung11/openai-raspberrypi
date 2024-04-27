@@ -1,0 +1,9 @@
+pyaudio==0.2.11 
+# espeak==0.6.3
+SpeechRecognition==3.8.1
+pydub==0.25.1
+# openai==0.20.0
+openai==1.16.2 #latest version
+python-dotenv==0.20.0
+pyttsx3==2.90
+gTTS==2.2.4
